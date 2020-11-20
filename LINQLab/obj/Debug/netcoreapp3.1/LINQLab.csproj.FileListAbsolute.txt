@@ -1,0 +1,13 @@
+C:\Users\acran\source\repos\Labs\LINQLab\LINQLab\bin\Debug\netcoreapp3.1\LINQLab.exe
+C:\Users\acran\source\repos\Labs\LINQLab\LINQLab\bin\Debug\netcoreapp3.1\LINQLab.deps.json
+C:\Users\acran\source\repos\Labs\LINQLab\LINQLab\bin\Debug\netcoreapp3.1\LINQLab.runtimeconfig.json
+C:\Users\acran\source\repos\Labs\LINQLab\LINQLab\bin\Debug\netcoreapp3.1\LINQLab.runtimeconfig.dev.json
+C:\Users\acran\source\repos\Labs\LINQLab\LINQLab\bin\Debug\netcoreapp3.1\LINQLab.dll
+C:\Users\acran\source\repos\Labs\LINQLab\LINQLab\bin\Debug\netcoreapp3.1\LINQLab.pdb
+C:\Users\acran\source\repos\Labs\LINQLab\LINQLab\obj\Debug\netcoreapp3.1\LINQLab.csprojAssemblyReference.cache
+C:\Users\acran\source\repos\Labs\LINQLab\LINQLab\obj\Debug\netcoreapp3.1\LINQLab.AssemblyInfoInputs.cache
+C:\Users\acran\source\repos\Labs\LINQLab\LINQLab\obj\Debug\netcoreapp3.1\LINQLab.AssemblyInfo.cs
+C:\Users\acran\source\repos\Labs\LINQLab\LINQLab\obj\Debug\netcoreapp3.1\LINQLab.csproj.CoreCompileInputs.cache
+C:\Users\acran\source\repos\Labs\LINQLab\LINQLab\obj\Debug\netcoreapp3.1\LINQLab.dll
+C:\Users\acran\source\repos\Labs\LINQLab\LINQLab\obj\Debug\netcoreapp3.1\LINQLab.pdb
+C:\Users\acran\source\repos\Labs\LINQLab\LINQLab\obj\Debug\netcoreapp3.1\LINQLab.genruntimeconfig.cache
